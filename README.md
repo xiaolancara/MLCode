@@ -3,7 +3,7 @@
 
 Thanks for coming! This is a collection of all machine learning algorithms I've built, check out the **code and algorithm** here
 
-## Supervised Learning
+## Supervised Learning (from scratch)
 [Linear & Logistic Regression](https://github.com/xiaolancara/MLCode/blob/main/Logistic_Linear%20Regression%20from%20scratch.ipynb)
 
 [Decision Tree](https://github.com/xiaolancara/MLCode/blob/main/Decision_Tree%20from%20scratch.ipynb)
@@ -14,7 +14,7 @@ Thanks for coming! This is a collection of all machine learning algorithms I've 
 
 [SVM](https://github.com/xiaolancara/MLCode/blob/main/SVM%20from%20scratch.ipynb)
 
-## Unsupervised Learning
+## Unsupervised Learning (from scratch)
 [Kmeans++ & DBscan](https://github.com/xiaolancara/MLCode/blob/main/Kmeans%2B%2B_DBscan_assn.ipynb)
 
 
